@@ -1,0 +1,4 @@
+LIBRARY	"capture"
+
+EXPORTS
+	getCaptureImage=?getCaptureImage@@YA_NPBDPADH@Z
